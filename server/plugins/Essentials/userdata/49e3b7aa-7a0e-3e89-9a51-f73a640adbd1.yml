@@ -1,0 +1,30 @@
+lastAccountName: Goons_Alot
+timestamps:
+  login: 1731613312320
+  kits:
+    tools: 1731603135125
+  logout: 1731613592091
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: world
+  x: 137.68157675532967
+  y: 76.0
+  z: 318.6555424659254
+  yaw: 289.05005
+  pitch: 11.700009
+logoutlocation:
+  world: world
+  x: -1208.1989079786551
+  y: 69.0
+  z: 1232.2335345146519
+  yaw: -311.00177
+  pitch: 14.099993
+nickname: Goons_Alot
+homes:
+  home:
+    world: world
+    x: 204.1942450270816
+    y: 65.0
+    z: 253.81641661430692
+    yaw: -90.2998
+    pitch: 16.649994

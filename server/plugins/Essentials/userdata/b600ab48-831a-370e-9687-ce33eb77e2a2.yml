@@ -1,0 +1,21 @@
+lastAccountName: Hello22
+timestamps:
+  login: 1731686288485
+  logout: 1731688292064
+  lastteleport: 1731688241262
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: world
+  x: 438.3104478190247
+  y: 12.0
+  z: 407.6308565709646
+  yaw: -45.774544
+  pitch: 30.899994
+lastlocation:
+  world: world
+  x: 391.46071729704875
+  y: 12.0
+  z: 417.93711999172825
+  yaw: 346.62573
+  pitch: 25.80001
+money: '165.0'

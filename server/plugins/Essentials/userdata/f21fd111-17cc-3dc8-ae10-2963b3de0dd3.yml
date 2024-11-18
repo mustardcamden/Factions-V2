@@ -1,0 +1,53 @@
+lastAccountName: freakbob
+timestamps:
+  login: 1731943133653
+  kits:
+    tools: 1731613507991
+  logout: 1731943156661
+  lastteleport: 1731699313071
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: world
+  x: -298.87254011376285
+  y: 67.0
+  z: 101.92500001192093
+  yaw: 110.31657
+  pitch: 17.293194
+logoutlocation:
+  world: world
+  x: -1207.961095378742
+  y: 71.0
+  z: 1197.2803160881144
+  yaw: 154.25287
+  pitch: 13.21921
+money: '100.0'
+afk: false
+homes:
+  base:
+    world: world
+    x: -1236.5
+    y: 71.0
+    z: 1235.5
+    yaw: -172.10889
+    pitch: 25.487991
+  mine:
+    world: world
+    x: -1224.3973541352618
+    y: 12.0
+    z: 1130.9811411938904
+    yaw: -186.85448
+    pitch: 16.271992
+  aura:
+    world: world
+    x: -296.2472352572511
+    y: 63.0
+    z: 132.39163272054458
+    yaw: 179.74377
+    pitch: -6.054009
+  island:
+    world: world
+    x: -1077.1173394606528
+    y: 95.0
+    z: 732.3810043145079
+    yaw: -56.694855
+    pitch: 19.857609

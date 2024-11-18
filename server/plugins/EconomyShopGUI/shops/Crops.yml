@@ -1,0 +1,15 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: WHEAT
+        sell: 1
+      '2':
+        material: POTATO
+        sell: .50
+      '3':
+        material: CARROT
+        sell: .50
+      '4':
+        material: SEEDS
+        sell: .01

@@ -1,0 +1,16 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: COAL
+        sell: 2.5
+      '2':
+        material: IRON_INGOT
+        sell: 6.25
+      '3':
+        material: GOLD_INGOT
+        sell: 10
+      '4':
+        material: DIAMOND
+        buy: 1000
+        sell: 1000

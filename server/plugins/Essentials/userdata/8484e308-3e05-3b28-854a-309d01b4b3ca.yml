@@ -1,0 +1,23 @@
+lastAccountName: monkey
+timestamps:
+  login: 1731688720816
+  logout: 1731688297463
+  kits:
+    tools: 1731599676147
+  lastteleport: 1731689039789
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: world
+  x: 438.92672359246035
+  y: 12.0
+  z: 409.80335801505
+  yaw: -199.82458
+  pitch: -64.80001
+lastlocation:
+  world: world
+  x: 293.41156635886307
+  y: 104.0
+  z: 330.4283833429589
+  yaw: -312.17456
+  pitch: 31.35001
+money: '162.5'

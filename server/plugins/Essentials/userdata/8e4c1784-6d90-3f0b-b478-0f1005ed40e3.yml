@@ -1,0 +1,36 @@
+lastAccountName: tomatopickrjavi
+timestamps:
+  login: 1731691574572
+  logout: 1731691152698
+  lastteleport: 1731691007316
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: world
+  x: 272.21999370600963
+  y: 129.0
+  z: 376.1538534727375
+  yaw: 96.57593
+  pitch: 25.649994
+homes:
+  home:
+    world: world
+    x: 12.363901620464473
+    y: 64.0
+    z: -214.3000000119209
+    yaw: 179.40015
+    pitch: 9.600009
+  javi:
+    world: world
+    x: 261.25929559034694
+    y: 129.0
+    z: 389.4607612155532
+    yaw: -126.774284
+    pitch: 18.149994
+lastlocation:
+  world: world
+  x: -271.6047875107909
+  y: 69.0
+  z: 273.36200508816745
+  yaw: -231.62451
+  pitch: 20.249992
+money: '102.5'

@@ -1,0 +1,43 @@
+lastAccountName: DREW
+timestamps:
+  login: 1731691489350
+  logout: 1731691188306
+  lastteleport: 1731691818105
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: world
+  x: -638.0914817970812
+  y: 64.0
+  z: -715.4444333979296
+  yaw: -19.751495
+  pitch: 15.45001
+homes:
+  home:
+    world: world
+    x: -640.9183400687659
+    y: 64.0
+    z: -714.1743208248578
+    yaw: 48.34851
+    pitch: 22.650011
+  mine:
+    world: world
+    x: -644.6987879537437
+    y: 11.0
+    z: -784.3647501286302
+    yaw: -179.80151
+    pitch: 15.45001
+  aura:
+    world: world
+    x: -318.4483942449383
+    y: 63.0
+    z: 156.15272682163027
+    yaw: -48.503452
+    pitch: 8.849992
+lastlocation:
+  world: world
+  x: -644.4719958466819
+  y: 23.0
+  z: -759.714827491604
+  yaw: 359.59863
+  pitch: 11.550009
+money: '200.0'

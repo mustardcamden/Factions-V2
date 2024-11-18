@@ -1,0 +1,35 @@
+lastAccountName: Bolt
+timestamps:
+  login: 1731691745730
+  logout: 1731691199496
+  lastteleport: 1731690789524
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: world
+  x: 319.49036425784266
+  y: 70.0
+  z: -80.91484842725245
+  yaw: -91.25362
+  pitch: 30.599995
+homes:
+  home:
+    world: world
+    x: -1243.2422999482658
+    y: 71.0
+    z: 1233.2558375924616
+    yaw: -204.80182
+    pitch: 8.100009
+  aura:
+    world: world
+    x: -299.27928986458534
+    y: 63.0
+    z: 132.72721443897666
+    yaw: -39.95349
+    pitch: 35.999996
+lastlocation:
+  world: world
+  x: -33.2758963254751
+  y: 67.0
+  z: 327.7682152965713
+  yaw: -347.30353
+  pitch: 25.949995

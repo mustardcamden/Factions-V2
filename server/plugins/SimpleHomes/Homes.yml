@@ -1,1 +1,39 @@
-
+freakbob:
+  default:
+    world: world
+    x: -1243
+    y: 71
+    z: 1241
+  mine:
+    world: world
+    x: -1225
+    y: 12
+    z: 1041
+  base:
+    world: world
+    x: -1243
+    y: 71
+    z: 1241
+  spawn:
+    world: world
+    x: 213
+    y: 67
+    z: 258
+charv12:
+  default:
+    world: world
+    x: -303
+    y: 65
+    z: 102
+john:
+  default:
+    world: world
+    x: -296
+    y: 66
+    z: 120
+bolt:
+  default:
+    world: world
+    x: -304
+    y: 66
+    z: 98

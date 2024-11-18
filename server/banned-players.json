@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "30869a35-4f39-33c1-8f3a-7b2920c434a6",
+    "name": "Nig76783",
+    "created": "2024-11-15 13:24:07 +0000",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

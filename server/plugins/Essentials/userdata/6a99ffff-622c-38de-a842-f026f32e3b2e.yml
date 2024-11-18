@@ -1,0 +1,36 @@
+lastAccountName: TP_
+timestamps:
+  login: 1731699337928
+  logout: 1731699371751
+  lastteleport: 1731686864475
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: world
+  x: -1092.7031556920238
+  y: 78.19114078070304
+  z: 730.9652729042617
+  yaw: -349.93887
+  pitch: 11.549993
+lastlocation:
+  world: world
+  x: -1230.1282598242046
+  y: 12.0
+  z: 970.6999999880791
+  yaw: 93.818184
+  pitch: 15.149993
+money: '170.0'
+homes:
+  home:
+    world: world
+    x: -1237.9447535848149
+    y: 71.0
+    z: 1238.2249352854992
+    yaw: -129.13931
+    pitch: 38.390392
+  skybase:
+    world: world
+    x: -1107.31599145957
+    y: 67.0
+    z: 757.9598699164783
+    yaw: 114.761185
+    pitch: 17.40001

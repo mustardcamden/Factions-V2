@@ -1,0 +1,201 @@
+title: Your Items <|     |> Their Items
+spectator-title: Player 1 <|         |> Player 2
+my-slots:
+- '1'
+- '2'
+- '3'
+- '9'
+- '10'
+- '11'
+- '12'
+- '18'
+- '19'
+- '20'
+- '21'
+- '27'
+- '28'
+- '29'
+- '30'
+- '36'
+- '37'
+- '38'
+- '39'
+- '45'
+- '46'
+- '47'
+- '48'
+their-slots:
+- '5'
+- '6'
+- '7'
+- '14'
+- '15'
+- '16'
+- '17'
+- '23'
+- '24'
+- '25'
+- '26'
+- '32'
+- '33'
+- '34'
+- '35'
+- '41'
+- '42'
+- '43'
+- '44'
+- '50'
+- '51'
+- '52'
+- '53'
+my-extra-slots:
+- '45'
+- '46'
+- '47'
+- '48'
+- '39'
+- '38'
+- '37'
+- '36'
+- '27'
+- '28'
+- '29'
+- '30'
+their-extra-slots:
+- '50'
+- '51'
+- '52'
+- '53'
+- '44'
+- '43'
+- '42'
+- '41'
+- '32'
+- '33'
+- '34'
+- '35'
+head:
+  enabled: true
+  display-name: '&7You are trading with: &3&l%PLAYER%'
+force:
+  enabled: true
+  slot: 49
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    type: WATCH
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §4§lForce Trade
+      lore:
+      - §7Click to force the trade
+      - §7to countdown and accept as
+      - §7it stands now.
+      ItemFlags: !!set
+        HIDE_ATTRIBUTES: null
+accept:
+  enabled: true
+  my-slot: 0
+  their-slot: 8
+  my-icon:
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS_PANE
+    damage: 14
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aClick to Accept
+      lore:
+      - §7If either of you change
+      - §7your offers during the countdown,
+      - §7you will have to accept
+      - §7the trade again.
+      ItemFlags: !!set
+        HIDE_ATTRIBUTES: null
+  my-cancel:
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS_PANE
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §cClick to Cancel
+      ItemFlags: !!set
+        HIDE_ATTRIBUTES: null
+  their-icon:
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS_PANE
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aThey've accepted your offer.
+      lore:
+      - §7If you're satisfied with the
+      - §7trade as shown right now,
+      - §7click your accept button!
+      ItemFlags: !!set
+        HIDE_ATTRIBUTES: null
+  their-cancel:
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS_PANE
+    damage: 14
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aYour partner is still considering.
+      lore:
+      - §7Click your accept button to
+      - §7signal that you like the trade
+      - §7as it is now, or wait
+      - §7for them to offer more!
+      ItemFlags: !!set
+        HIDE_ATTRIBUTES: null
+complete:
+  ==: org.bukkit.inventory.ItemStack
+  type: STAINED_GLASS_PANE
+  damage: 13
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §aTrade Complete!
+    lore:
+    - §fReview the final agreement and
+    - §fclose the trade window
+    - §fto retrieve your items!
+    ItemFlags: !!set
+      HIDE_ATTRIBUTES: null
+cancelled:
+  ==: org.bukkit.inventory.ItemStack
+  type: STAINED_GLASS_PANE
+  damage: 14
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §cTrade Cancelled!
+    lore:
+    - §7Your trading partner cancelled
+    - §7the trade. Close the window
+    - §7to retrieve your items.
+    ItemFlags: !!set
+      HIDE_ATTRIBUTES: null
+separator:
+  ==: org.bukkit.inventory.ItemStack
+  type: STAINED_GLASS_PANE
+  damage: 15
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: ' '
+    ItemFlags: !!set
+      HIDE_ATTRIBUTES: null
+placeholder:
+  ==: org.bukkit.inventory.ItemStack
+  type: STAINED_GLASS_PANE
+  damage: 15
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: ' '
+    ItemFlags: !!set
+      HIDE_ATTRIBUTES: null

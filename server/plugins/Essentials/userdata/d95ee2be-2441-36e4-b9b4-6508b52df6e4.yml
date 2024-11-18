@@ -1,0 +1,35 @@
+lastAccountName: JacksonStorm
+timestamps:
+  login: 1731691540877
+  logout: 1731691188501
+  lastteleport: 1731690825411
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: world
+  x: 65.56812305017718
+  y: 64.0
+  z: -162.701102782566
+  yaw: -44.453613
+  pitch: 7.649992
+lastlocation:
+  world: world
+  x: -295.58091477523374
+  y: 63.0
+  z: 128.25798120672252
+  yaw: 15.396561
+  pitch: 29.249994
+homes:
+  home:
+    world: world
+    x: -298.5578250342766
+    y: 63.0
+    z: 131.83895607575985
+    yaw: -27.750097
+    pitch: 20.399994
+  drew:
+    world: world
+    x: -644.3250807965364
+    y: 64.0
+    z: -717.3206167070442
+    yaw: -319.00165
+    pitch: 17.85001

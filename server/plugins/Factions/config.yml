@@ -62,7 +62,7 @@ warp-cost:
 
 # Faction Fly
 # Enable Faction Fly:
-enable-faction-flight: true
+enable-faction-flight: false
 ffly:
   Particles:
     Enabled: true
@@ -797,7 +797,7 @@ ffocus:
 fvault:
   Enabled: true
   No-Hoppers-near-vault: true
-  Price: 5000
+  Price: 10000
   Item:
     Name: '&e&l*&f&l*&e&l* &c&lFaction Vault &7(Place) &e&l*&f&l*&e&l*'
     Lore:

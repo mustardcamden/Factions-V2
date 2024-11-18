@@ -1,0 +1,22 @@
+lastAccountName: john
+timestamps:
+  login: 1731691680624
+  kits:
+    tools: 1731609041140
+  logout: 1731691826216
+  lastteleport: 1731690551023
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: world
+  x: 406.5070325222335
+  y: 72.0
+  z: -106.81670247833748
+  yaw: -236.15361
+  pitch: 49.949997
+lastlocation:
+  world: world
+  x: 176.59046117694706
+  y: 75.0
+  z: -12.661056077994802
+  yaw: -83.72461
+  pitch: 12.300009

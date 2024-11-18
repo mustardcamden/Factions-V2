@@ -1,0 +1,19 @@
+lastAccountName: Caiden
+timestamps:
+  login: 1731680305023
+  logout: 1731680335515
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: world
+  x: 212.5
+  y: 60.0
+  z: 256.5
+  yaw: -29.250002
+  pitch: -9.900001
+logoutlocation:
+  world: world
+  x: 212.5
+  y: 60.0
+  z: 256.5
+  yaw: -186.15001
+  pitch: 18.150002
